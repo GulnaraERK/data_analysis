@@ -1,1 +1,2 @@
-# data_analysis
+# Data_analysis
+Тетради по анализу данных.
